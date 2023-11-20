@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Registro Maquetado
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Vista previa del proyecto](https://github.com/alexis-ramos-ok/registro-maq/raw/main/public/screen-main-tp6.png)
 
-## Available Scripts
+Este proyecto fue desarrollado como parte del curso Desarrollador ReactJS impartido por la UTN FRBA a través de Argentina Programa 4.0. La aplicación consiste en el maquetado de un sitio web que muestra un formulario de registro con los campos:
 
-In the project directory, you can run:
+- Nombre
+- Apellido
+- Email
+- Teléfono
+- Password
+- Confirmar password
 
-### `npm start`
+Los usuarios no se guardan ni se validan en este maquetado.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Contenido
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Demostración](#demostración)
+- [Descripción](#descripción)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
 
-### `npm test`
+## Demostración
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Enlace a la demostración del proyecto](https://registro-maq.netlify.app/)
 
-### `npm run build`
+## Descripción
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Este proyecto es un maquetado simple de un formulario de registro que cumple con los requisitos establecidos en el curso. Los campos mencionados anteriormente se presentan en un diseño limpio y ordenado.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tecnologías Utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple)](https://getbootstrap.com/)
+[![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-2.9.1-blueviolet)](https://react-bootstrap.github.io/)
+[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.48.2-success)](https://react-hook-form.com/)
+[![Yup](https://img.shields.io/badge/Yup-1.3.2-yellow)](https://github.com/jquense/yup)
 
-### `npm run eject`
+## Instalación
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clona el repositorio: `git clone https://github.com/alexis-ramos-ok/registro-maq.git`
+2. Navega al directorio del proyecto: `cd registro-maq`
+3. Instala las dependencias: `npm install`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Uso
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Inicia la aplicación: `npm start`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+La aplicación estará disponible en [http://localhost:3000](http://localhost:3000) en tu navegador.
 
-## Learn More
+## Contribuciones
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Si deseas contribuir, por favor abre un problema antes de enviar un pull request.
+- Todas las contribuciones son bienvenidas.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Licencia
 
-### Code Splitting
+Este proyecto está bajo la licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contacto
 
-### Analyzing the Bundle Size
+Si tienes preguntas o sugerencias, no dudes en contactarme:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Nombre: Alexis Ramos
+- Correo electrónico: alexleaderhere@gmail.com
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Gracias por explorar el proyecto de Registro Maquetado! Espero que encuentres útil el maquetado y la estructura del formulario.
