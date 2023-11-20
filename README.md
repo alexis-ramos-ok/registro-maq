@@ -34,10 +34,10 @@ Este proyecto es un maquetado simple de un formulario de registro que cumple con
 
 ## Tecnologías Utilizadas
 
-[![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-2.9.1-blueviolet?style=for-the-badge&logo=react&logoColor=white)](https://react-bootstrap.github.io/)
-[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.48.2-success?style=for-the-badge&logo=react&logoColor=white)](https://react-hook-form.com/)
+[![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+[![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-2.9.1-blueviolet?style=for-the-badge&logo=react&logoColor=white)](https://react-bootstrap.github.io/)  
+[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.48.2-success?style=for-the-badge&logo=react&logoColor=white)](https://react-hook-form.com/)  
 [![Yup](https://img.shields.io/badge/Yup-1.3.2-yellow?style=for-the-badge)](https://github.com/jquense/yup)
 
 ## Instalación
