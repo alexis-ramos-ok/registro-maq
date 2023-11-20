@@ -34,11 +34,11 @@ Este proyecto es un maquetado simple de un formulario de registro que cumple con
 
 ## Tecnologías Utilizadas
 
-- [React](https://reactjs.org/) ![React](https://img.shields.io/badge/React-18.2.0-blue)
-- [Bootstrap](https://getbootstrap.com/) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple)
-- [React Bootstrap](https://react-bootstrap.github.io/) ![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-2.9.1-blueviolet)
-- [React Hook Form](https://react-hook-form.com/) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.48.2-success)
-- [Yup](https://github.com/jquense/yup) ![Yup](https://img.shields.io/badge/Yup-1.3.2-yellow)
+- React: [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
+- Bootstrap: [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple)](https://getbootstrap.com/)
+- React Bootstrap: [![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-2.9.1-blueviolet)](https://react-bootstrap.github.io/)
+- React Hook Form: [![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.48.2-success)](https://react-hook-form.com/)
+- Yup: [![Yup](https://img.shields.io/badge/Yup-1.3.2-yellow)](https://github.com/jquense/yup)
 
 ## Instalación
 
