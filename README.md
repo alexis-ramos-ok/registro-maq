@@ -26,7 +26,7 @@ Los usuarios no se guardan ni se validan en este maquetado.
 
 ## Demostración
 
-[Enlace a la demostración del proyecto](https://registro-maq.netlify.app/)
+[Registro Maquetado Deploy](https://registro-maq.netlify.app/)
 
 ## Descripción
 
