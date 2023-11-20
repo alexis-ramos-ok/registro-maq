@@ -32,13 +32,17 @@ Los usuarios no se guardan ni se validan en este maquetado.
 
 Este proyecto es un maquetado simple de un formulario de registro que cumple con los requisitos establecidos en el curso. Los campos mencionados anteriormente se presentan en un diseño limpio y ordenado.
 
-| Tecnologías Utilizadas |
-| :---: |
-| !React |
-| !Bootstrap |
-| !React Bootstrap |
-| !React Hook Form |
-| !Yup |
+## Tecnologías Utilizadas
+
+<div style="list-style: none;">
+
+- !React
+- !Bootstrap
+- !React Bootstrap
+- !React Hook Form
+- !Yup
+
+</div>
 
 ## Instalación
 
