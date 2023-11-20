@@ -32,13 +32,13 @@ Los usuarios no se guardan ni se validan en este maquetado.
 
 Este proyecto es un maquetado simple de un formulario de registro que cumple con los requisitos establecidos en el curso. Los campos mencionados anteriormente se presentan en un diseño limpio y ordenado.
 
-## Tecnologías Utilizadas
-
-[![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.2-purple)](https://getbootstrap.com/)
-[![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-2.9.1-blueviolet)](https://react-bootstrap.github.io/)
-[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-7.48.2-success)](https://react-hook-form.com/)
-[![Yup](https://img.shields.io/badge/Yup-1.3.2-yellow)](https://github.com/jquense/yup)
+| Tecnologías Utilizadas |
+| :---: |
+| !React |
+| !Bootstrap |
+| !React Bootstrap |
+| !React Hook Form |
+| !Yup |
 
 ## Instalación
 
