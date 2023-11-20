@@ -1,0 +1,117 @@
+.columna-second-container {
+    padding: 4rem 5rem;
+    background-color: #fff;
+    box-shadow:  20px 20px 60px #bacdbe,
+    -20px -20px 60px #fcffff;
+}
+
+.columna-second-title {
+    color: #25D366;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.columna-second-container .form-label {
+    font-size: 1.6rem;
+    color: gray;
+    font-weight: 500;
+}
+
+.columna-second-container .form-control {
+    margin-bottom: 1.2rem;
+    font-size: 1.4rem;
+    font-style: italic;
+    font-weight: 500;
+    color: rgb(122, 122, 122);
+}
+.custom-input::placeholder {
+    color: rgb(150, 150, 150); 
+}
+
+.custom-input {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+}
+
+.columna-second-container .btn-success {
+    display: flex;
+    color: white;
+    font-size: 1.7rem;
+    font-weight: 500;
+    border-radius: 20px;
+    padding: 0.5rem 2.5rem;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #25D366;
+    border: 1px solid #25D366;
+    margin-top: 2rem;
+    align-items: center;
+    vertical-align: middle;
+    justify-content: center;
+    transition: all 300ms ease-in-out;
+}
+
+.columna-second-container .btn-success:hover {
+    background-color: #1c9e5e; 
+    border-color: #1c9e5e;
+}
+
+.columna-second-container .btn-success:active {
+    background-color: #148745; 
+    border-color: #148745;
+}
+
+
+.fa-play {
+    width: 10px;
+    height: 10px;
+    display: flex;
+    color: #25D366;
+    font-size: 1rem;
+    padding: 5px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-left: 0.7rem;
+    vertical-align: middle;
+    align-items: center;
+    transition: all 300ms ease-in-out;
+}
+
+.columna-second-container .btn-success:hover .fa-play {
+    color: #1c9e5e;
+}
+
+.columna-second-container .btn-success:active .fa-play {
+    color: #148745;
+}
+
+
+@media (max-width: 1100px) {
+    .columna-second-container {
+        padding: 2rem 3rem;
+    }
+    .columna-second-container .row{
+        display: flex;
+        flex-direction: column;
+    }
+    .columna-second-container .form-label {
+        display: none;
+    }
+}
+
+@media (max-width: 900px) {
+    .columna-second-container .form-label {
+        display: block;
+    }
+    .columna-second-container .form-control {
+        margin-bottom: 1.5rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .columna-second-container {
+        padding: 1.2rem;
+    }
+}

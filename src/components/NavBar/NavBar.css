@@ -1,0 +1,75 @@
+.nav-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+    padding: 3rem 0;
+}
+
+.nav-link {
+    color: darkgreen !important;
+    font-size: 1.6rem;
+    font-weight: 500;
+    transition: all 300ms ease-in-out;
+}
+.nav-link:hover {
+    background-color: #82f0aa;
+    border-radius: 5px;
+}
+
+
+.fa-whatsapp {
+    color: #25D366 !important;
+    font-size: 2.5rem;
+    margin-right: 0.7rem;
+    vertical-align: middle;
+}
+
+.whatsapp-number {
+    color: #25D366 !important;
+    font-size: 1.8rem;
+    vertical-align: middle;
+}
+
+.menu-button {
+    position: fixed;
+    top: 1rem;
+    right: 3rem;
+    z-index: 1;
+    background-color: #006400 !important;
+    color: #fff;
+    border: none;
+    padding: 5px 12px;
+    font-size: 2.5rem;
+    border-radius: 10px;
+}
+
+.offcanvas-title {
+    font-size: 2.5rem;
+    padding: 1rem 4rem 0 4rem;
+    color: #006400;
+    font-weight: 700;
+}
+
+.offcanvas-header .btn-close{
+    font-size: 1.6rem;
+    padding: 1rem;
+    background-color: #97f8bb;
+    border-radius: 10px;
+}
+
+@media (max-width: 900px) {
+    .offcanvas-body {
+        padding: 2rem 5rem;
+    }
+    .nav-link{
+        border-bottom: 1px solid rgba(0, 128, 0, 0.26);
+        padding: 1.5rem 0;
+    }
+}
+
+@media (max-width: 600px) {
+    .menu-button {
+        right: 1rem;
+    }
+}
