@@ -59,7 +59,7 @@ La aplicación estará disponible en [http://localhost:3000](http://localhost:30
 
 ## Licencia
 
-Este proyecto está bajo la licencia [Creative Commons](https://creativecommons.org/licenses/by/4.0/).
+![Licencia](https://img.shields.io/badge/Licencia-Creative_Commons-green?style=for-the-badge)
 
 ## Contacto
 
